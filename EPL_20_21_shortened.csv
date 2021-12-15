@@ -1,0 +1,109 @@
+Name,Club,Nationality,Position,Age,Matches,Starts,Mins,Goals,Assists,Passes_Attempted,Perc_Passes_Completed,Penalty_Goals,Penalty_Attempted,xG,xA,Yellow_Cards,Red_Cards
+Mason Mount,Chelsea,ENG,"MF,FW",21,36,32,2890,6,5,1881,82.3,1,1,0.21,0.24,2,0
+Edouard Mendy,Chelsea,SEN,GK,28,31,31,2745,0,0,1007,84.6,0,0,0,0,2,0
+Timo Werner,Chelsea,GER,FW,24,35,29,2602,6,8,826,77.2,0,0,0.41,0.21,2,0
+Ben Chilwell,Chelsea,ENG,DF,23,27,27,2286,3,5,1806,78.6,0,0,0.1,0.11,3,0
+Reece James,Chelsea,ENG,DF,20,32,25,2373,1,2,1987,85,0,0,0.06,0.12,3,0
+César Azpilicueta,Chelsea,ESP,DF,30,26,24,2188,1,2,2015,87.5,0,0,0.03,0.11,5,1
+N'Golo Kanté,Chelsea,FRA,MF,29,30,24,2146,0,2,1504,86.6,0,0,0.04,0.05,7,0
+Jorginho,Chelsea,ITA,MF,28,28,23,2010,7,1,1739,89.5,7,9,0.31,0.09,2,0
+Thiago Silva,Chelsea,BRA,DF,35,23,23,1935,2,0,1871,93.5,0,0,0.05,0.02,5,1
+Kurt Zouma,Chelsea,FRA,DF,25,24,22,2029,5,0,1720,91.9,0,0,0.08,0,3,0
+Mateo Kovačić,Chelsea,CRO,MF,26,27,21,1815,0,1,1737,91,0,0,0.05,0.09,4,0
+Antonio Rüdiger,Chelsea,GER,DF,27,19,19,1710,1,0,1476,90.7,0,0,0.06,0.02,0,0
+Christian Pulisic,Chelsea,USA,"FW,MF",21,27,18,1738,4,2,690,80,0,0,0.28,0.14,2,0
+Kai Havertz,Chelsea,GER,"MF,FW",21,27,18,1520,4,3,765,86.1,0,0,0.37,0.09,2,0
+Andreas Christensen,Chelsea,DEN,DF,24,17,15,1371,0,0,1089,92.8,0,0,0.01,0.02,2,1
+Hakim Ziyech,Chelsea,MAR,"FW,MF",27,23,15,1172,2,3,734,74.7,0,0,0.15,0.28,3,0
+Tammy Abraham,Chelsea,ENG,FW,22,22,12,1040,6,1,218,68.3,0,0,0.56,0.07,0,0
+Marcos Alonso,Chelsea,ESP,DF,29,13,11,960,2,0,592,81.6,0,0,0.16,0.11,2,0
+Callum Hudson-Odoi,Chelsea,ENG,"FW,DF",19,23,10,1059,2,3,659,82.2,0,0,0.12,0.26,0,0
+Olivier Giroud,Chelsea,FRA,FW,33,17,8,748,4,0,217,74.2,0,0,0.58,0.09,1,0
+Kepa Arrizabalaga,Chelsea,ESP,GK,25,7,6,585,0,0,243,81.5,0,0,0,0,1,0
+Billy Gilmour,Chelsea,SCO,MF,19,5,3,261,0,0,215,89.3,0,0,0.01,0.04,0,0
+Willy Caballero,Chelsea,ARG,GK,38,1,1,90,0,0,26,92.3,0,0,0,0,0,0
+Ruben Loftus-Cheek,Chelsea,ENG,FW,24,1,1,60,0,0,16,68.8,0,0,0,0,0,0
+Emerson Palmieri,Chelsea,ITA,DF,25,2,0,90,0,0,63,81,0,0,0,0,0,0
+Fikayo Tomori,Chelsea,ENG,DF,22,1,0,45,0,0,29,93.1,0,0,0,0,0,0
+Ross Barkley,Chelsea,ENG,MF,26,2,0,42,0,0,26,84.6,0,0,0.06,0.16,0,0
+Ederson,Manchester City,BRA,GK,26,36,36,3240,0,1,1090,83.1,0,0,0,0.01,3,0
+Rúben Dias,Manchester City,POR,DF,23,32,32,2843,1,0,2671,93.6,0,0,0.07,0,4,0
+Rodri,Manchester City,ESP,MF,24,34,31,2748,2,2,2728,91.5,1,1,0.08,0.06,6,0
+Raheem Sterling,Manchester City,ENG,FW,25,31,28,2536,10,7,1127,85.4,0,1,0.43,0.17,4,0
+João Cancelo,Manchester City,POR,DF,26,28,27,2299,2,3,2094,85.7,0,0,0.08,0.19,5,1
+Bernardo Silva,Manchester City,POR,"MF,FW",25,26,24,2065,2,6,1427,89.7,0,0,0.12,0.16,5,0
+İlkay Gündoğan,Manchester City,GER,MF,29,28,23,2029,13,2,1707,91,1,2,0.4,0.2,1,0
+Kevin De Bruyne,Manchester City,BEL,MF,29,25,23,1997,6,12,1406,76,2,3,0.44,0.46,1,0
+Riyad Mahrez,Manchester City,ALG,FW,29,27,23,1949,9,6,1086,84.2,0,0,0.26,0.27,0,0
+Gabriel Jesus,Manchester City,BRA,FW,23,29,22,2063,9,4,754,84.6,0,0,0.38,0.15,2,0
+Kyle Walker,Manchester City,ENG,DF,30,24,22,1946,1,1,1897,89.4,0,0,0.01,0.02,1,0
+John Stones,Manchester City,ENG,DF,26,22,22,1933,4,0,1713,94.3,0,0,0.1,0,0,1
+Phil Foden,Manchester City,ENG,"FW,MF",20,28,17,1616,9,5,838,82,0,0,0.31,0.23,0,0
+Oleksandr Zinchenko,Manchester City,UKR,DF,23,20,15,1478,0,0,1475,90.2,0,0,0.04,0.08,0,0
+Ferrán Torres,Manchester City,ESP,"FW,MF",20,24,15,1306,7,2,442,81.4,0,0,0.37,0.13,1,0
+Aymeric Laporte,Manchester City,FRA,DF,26,16,14,1344,0,0,1261,92,0,0,0.05,0.05,1,0
+Fernandinho,Manchester City,BRA,MF,35,21,12,1188,0,2,1001,87.8,0,0,0.06,0.07,6,0
+Benjamin Mendy,Manchester City,FRA,DF,26,13,11,953,2,1,651,81.7,0,0,0.04,0.04,2,0
+Nathan Aké,Manchester City,NED,DF,25,10,9,797,1,0,755,93,0,0,0.01,0,4,0
+Sergio Agüero,Manchester City,ARG,"FW,MF",32,12,7,559,4,1,170,84.1,1,2,0.54,0.21,0,0
+Eric García,Manchester City,ESP,DF,19,6,3,383,0,0,344,93.6,0,0,0.03,0.02,0,0
+Scott Carson,Manchester City,ENG,GK,34,1,1,90,0,0,16,93.8,0,0,0,0,0,0
+Zack Steffen,Manchester City,USA,GK,25,1,1,90,0,0,28,82.1,0,0,0,0,0,0
+Liam Delap,Manchester City,ENG,FW,17,1,0,40,0,0,7,71.4,0,0,0.06,0,0,0
+Bruno Fernandes,Manchester United,POR,MF,25,37,35,3099,18,12,2283,74.6,9,10,0.45,0.32,6,0
+Aaron Wan-Bissaka,Manchester United,ENG,DF,22,34,34,3060,2,4,2065,86,0,0,0.03,0.07,3,0
+Harry Maguire,Manchester United,ENG,DF,27,34,34,3047,2,1,2139,89,0,0,0.06,0.01,11,0
+Marcus Rashford,Manchester United,ENG,FW,22,37,33,2920,11,9,1234,80.6,0,0,0.29,0.11,4,0
+Luke Shaw,Manchester United,ENG,DF,25,32,30,2654,1,5,2015,81.6,0,0,0.02,0.18,8,0
+Victor Lindelöf,Manchester United,SWE,DF,26,29,29,2585,1,1,1800,91.1,0,0,0.02,0.02,0,0
+Fred,Manchester United,BRA,MF,27,30,27,2390,1,0,1763,88.2,0,0,0.07,0.1,5,0
+David de Gea,Manchester United,ESP,GK,29,26,26,2295,0,0,594,77.1,0,0,0,0,0,0
+Scott McTominay,Manchester United,SCO,MF,23,32,24,2129,4,1,1270,87.3,0,0,0.09,0.04,3,0
+Paul Pogba,Manchester United,FRA,"MF,FW",27,26,21,1897,3,3,1343,82.8,0,0,0.1,0.1,3,0
+Mason Greenwood,Manchester United,ENG,FW,18,31,21,1822,7,2,732,83.1,0,0,0.37,0.09,2,0
+Anthony Martial,Manchester United,FRA,FW,24,22,17,1480,4,3,488,82.8,0,0,0.4,0.12,0,1
+Edinson Cavani,Manchester United,URU,FW,33,26,13,1375,10,3,343,78.7,0,0,0.48,0.17,4,0
+Dean Henderson,Manchester United,ENG,GK,23,13,12,1125,0,0,314,75.2,0,0,0,0,3,0
+Nemanja Matić,Manchester United,SRB,MF,31,20,12,1106,0,0,975,90.5,0,0,0.02,0.03,2,0
+Daniel James,Manchester United,WAL,FW,22,15,11,910,3,1,304,78,0,0,0.23,0.12,3,0
+Eric Bailly,Manchester United,CIV,DF,26,12,10,916,0,0,547,90.3,0,0,0.01,0,3,0
+Alex Telles,Manchester United,BRA,DF,27,9,8,690,0,2,570,80.5,0,0,0.02,0.15,0,0
+Juan Mata,Manchester United,ESP,"FW,MF",32,9,6,509,1,2,294,84,1,1,0.19,0.15,0,0
+Donny van de Beek,Manchester United,NED,"MF,FW",23,19,4,524,1,1,279,84.2,0,0,0.05,0.17,1,0
+Axel Tuanzebe,Manchester United,ENG,DF,22,9,4,404,0,0,263,89.7,0,0,0,0,2,0
+Brandon Williams,Manchester United,ENG,DF,19,4,2,188,0,0,140,85.7,0,0,0.05,0.01,0,0
+Amad Diallo,Manchester United,CIV,FW,18,3,2,166,0,1,64,84.4,0,0,0.02,0.26,0,0
+Anthony Elanga,Manchester United,SWE,FW,18,2,2,155,1,0,53,81.1,0,0,0.16,0.02,0,0
+Timothy Fosu-Mensah,Manchester United,NED,DF,22,1,1,80,0,0,75,86.7,0,0,0.03,0.31,1,0
+Shola Shoretire,Manchester United,ENG,FW,16,2,0,11,0,0,8,75,0,0,0,0,0,0
+Odion Ighalo,Manchester United,NGA,FW,31,1,0,10,0,0,1,100,0,0,0,0,0,0
+Hannibal Mejbri,Manchester United,FRA,MF,17,1,0,9,0,0,3,100,0,0,0,0,0,0
+William Thomas Fish,Manchester United,ENG,DF,17,1,0,1,0,0,1,0,0,0,0,0,0,0
+Andrew Robertson,Liverpool FC,SCO,DF,26,38,38,3383,1,7,3214,79.9,0,0,0.04,0.18,2,0
+Mohamed Salah,Liverpool FC,EGY,FW,28,37,34,3078,22,5,1288,83.2,6,6,0.61,0.18,0,0
+Trent Alexander-Arnold,Liverpool FC,ENG,DF,21,36,34,3031,2,7,2941,75.3,0,0,0.08,0.24,2,0
+Georginio Wijnaldum,Liverpool FC,NED,MF,29,38,34,2941,2,0,1747,93.3,0,0,0.1,0.05,1,0
+Alisson,Liverpool FC,BRA,GK,27,33,33,2970,1,0,1137,85.2,0,0,0,0,1,0
+Roberto Firmino,Liverpool FC,BRA,FW,28,36,33,2838,9,7,1308,79.7,0,0,0.4,0.2,2,0
+Sadio Mané,Liverpool FC,SEN,FW,28,35,31,2810,11,7,1064,75.4,0,0,0.49,0.18,3,0
+Fabinho,Liverpool FC,BRA,"DF,MF",26,30,28,2567,0,0,2049,91.1,0,0,0.02,0.01,6,0
+Thiago Alcántara,Liverpool FC,ESP,MF,29,24,20,1854,1,0,1674,89.5,0,0,0.07,0.11,4,0
+Jordan Henderson,Liverpool FC,ENG,"MF,DF",30,21,20,1704,1,1,1812,86.8,0,0,0.09,0.07,0,0
+Nathaniel Phillips,Liverpool FC,ENG,DF,23,17,15,1456,1,1,1058,87.2,0,0,0.07,0.02,2,0
+Curtis Jones,Liverpool FC,ENG,MF,19,24,13,1179,1,2,976,91.2,0,0,0.11,0.12,2,0
+Diogo Jota,Liverpool FC,POR,FW,23,19,12,1112,9,0,451,72.5,0,0,0.53,0.13,2,0
+James Milner,Liverpool FC,ENG,"MF,DF",34,26,11,1070,0,1,913,84.9,0,0,0.04,0.1,3,0
+Ozan Kabak,Liverpool FC,TUR,DF,20,9,9,801,0,0,554,90.6,0,0,0.01,0.02,3,0
+Joël Matip,Liverpool FC,CMR,DF,28,10,9,691,1,2,527,88.4,0,0,0.08,0.14,2,0
+Rhys Williams,Liverpool FC,ENG,DF,19,9,7,661,0,0,451,92,0,0,0.07,0.05,0,0
+Naby Keïta,Liverpool FC,GUI,MF,25,10,7,520,0,0,356,87.4,0,0,0.09,0.14,1,0
+Joe Gomez,Liverpool FC,ENG,DF,23,7,6,590,0,0,532,90.2,0,0,0,0,0,0
+Xherdan Shaqiri,Liverpool FC,SUI,"MF,FW",28,14,5,556,0,2,426,83.6,0,0,0.06,0.49,2,0
+Virgil van Dijk,Liverpool FC,NED,DF,29,5,5,370,1,0,329,90,0,0,0.08,0,1,0
+Adrián,Liverpool FC,ESP,GK,33,3,3,270,0,0,99,76.8,0,0,0,0,0,0
+Neco Williams,Liverpool FC,WAL,DF,19,6,3,249,0,0,213,73.2,0,0,0.03,0.1,1,0
+Takumi Minamino,Liverpool FC,JPN,"MF,FW",25,9,2,293,1,0,139,79.9,0,0,0.2,0,0,0
+Alex Oxlade-Chamberlain,Liverpool FC,ENG,"FW,MF",26,13,2,253,1,1,138,75.4,0,0,0.13,0.08,0,0
+Divock Origi,Liverpool FC,BEL,FW,25,9,2,186,0,0,60,76.7,0,0,0.47,0.11,0,0
+Caoimhín Kelleher,Liverpool FC,IRL,GK,21,2,2,180,0,0,62,82.3,0,0,0,0,0,0
+Kostas Tsimikas,Liverpool FC,GRE,DF,24,2,0,7,0,0,8,75,0,0,0,0,0,0
